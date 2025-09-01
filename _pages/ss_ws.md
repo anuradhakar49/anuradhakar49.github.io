@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Summer school and workshops
-permalink: /ssws/
+layout: about
+title: Activities
+permalink: /
 ---
 
-{% include news.liquid %}
+Write your biography here. 
