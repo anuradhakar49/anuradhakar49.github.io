@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-activities",
-          title: "Activities",
-          description: "List of summerschools and workshops organized",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/ssws/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
