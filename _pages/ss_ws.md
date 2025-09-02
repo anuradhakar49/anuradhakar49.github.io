@@ -1,7 +1,9 @@
+
 ---
 layout: page
+permalink: /ssws/
 title: Activities
-permalink: /
+description: List of summerschools and workshops organized
+nav: true
 ---
-
-Write your biography here. 
+Write details here
